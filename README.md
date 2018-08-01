@@ -1,1 +1,1 @@
-# Alphys
+{"name": "Alphys", "channel_id": "474338377580281856", "token": "mvCej8XgRgY5tDhFdKRI-8dTMbbLq9utVw1WvyLz-Y0joI51Xmw3DgVuh_mADTUrrbK5", "avatar": "24773ec9454a5c64a8c5544c7d1a3345", "guild_id": "474338377152593924", "id": "474348292982046721"}
